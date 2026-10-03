@@ -24,10 +24,10 @@ Flutter mobile app developer focused on Android apps. I also build web applicati
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge)
 
-### Featured Apps on Google Play
+### Featured Apps
 
-| App | Link |
-| --- | --- |
-| Petify AI Scanner: Identifier | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.meowtalk.cattranslator.dogtranslator.pettranslator&hl=en) |
-| Halal Scanner: Barcode & ECode | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.halal.scanner.food.barcode.ecode) |
-| WiFi Analyzer Speed Tester | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.wifianalyzer.networkanalyzer.qrcode.internetspeed) |
+| App | Android | iOS |
+| --- | --- | --- |
+| Petify AI Scanner: Identifier | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.meowtalk.cattranslator.dogtranslator.pettranslator&hl=en) | [View on App Store](https://apps.apple.com/sa/app/petify-ai-breed-identifier/id6504329774) |
+| Halal Scanner: Barcode & ECode | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.halal.scanner.food.barcode.ecode) | [View on App Store](https://apps.apple.com/sa/app/halal-scanner-barcode-ecode/id6747710371) |
+| WiFi Analyzer Speed Tester | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.wifianalyzer.networkanalyzer.qrcode.internetspeed) | [View on App Store](https://apps.apple.com/sa/app/wifi-analyzer-wifi-finder/id6479249755) |
