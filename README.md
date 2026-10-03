@@ -16,5 +16,18 @@ Flutter mobile app developer focused on Android apps. I also build web applicati
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge)
+
+### Featured Apps on Google Play
+
+| App | Link |
+| --- | --- |
+| Petify AI Scanner: Identifier | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.meowtalk.cattranslator.dogtranslator.pettranslator&hl=en) |
+| Halal Scanner: Barcode & ECode | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.halal.scanner.food.barcode.ecode) |
+| WiFi Analyzer Speed Tester | [View on Google Play](https://play.google.com/store/apps/details?id=com.easymt.wifianalyzer.networkanalyzer.qrcode.internetspeed) |
